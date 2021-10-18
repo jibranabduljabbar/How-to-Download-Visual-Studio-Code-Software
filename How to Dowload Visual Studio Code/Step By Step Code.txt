@@ -1,0 +1,23 @@
+How to Download Visual Studio Code:
+
+Step 1: Go to Google Chrome.
+
+Step 2: Search VSCode Dowload.
+
+Step 3: Open This Link: https://code.visualstudio.com/download
+
+Step 4: Select Your Device To Download This Software.
+
+Step 5: Press For Example Window.
+
+Step 6: Open radio Option Select: I Accept the Agreements Then Press Next Button.
+
+Step 7: CheckMark All Options. Then Press Next Button.
+
+Step 8: Select Launched The Visual Studio Code.
+
+Step 9: Press Install Button.
+
+Step 10: After Installing Software Then Press Finish Button.
+
+Step 11: Then Search Visual Studio Code In Your PC Then Open.
